@@ -1,0 +1,2 @@
+# PictureNamingTaskDocs
+Documentation for PictureNamingTask 
